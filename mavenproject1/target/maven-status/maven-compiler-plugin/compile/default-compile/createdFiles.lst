@@ -1,0 +1,5 @@
+beans\User.class
+com\mycompany\mavenproject1\resources\JavaEE8Resource.class
+controllers\LoginController.class
+controllers\LoginController$1.class
+com\mycompany\mavenproject1\JAXRSConfiguration.class
